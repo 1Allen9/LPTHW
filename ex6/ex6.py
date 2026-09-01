@@ -1,8 +1,8 @@
 types_of_people = 10
 x = f"There are {types_of_people} types of people."
 
-binary = "binary"
-do_not = "don't"
+binary = "Binary"
+do_not = "Don't"
 y = f"Those whe know {binary} and those who {do_not}."
 
 print(x)
